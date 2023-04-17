@@ -184,5 +184,5 @@
 </p>
 
 ------
-Credit: [JOYEl GEORGE](https://github.com/Joyel42)
+Credit: [JOYEL GEORGE](https://github.com/Joyel42)
 ---
