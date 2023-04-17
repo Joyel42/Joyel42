@@ -11,6 +11,7 @@
 - 👨‍💻 All of my projects are available [@Joyel42](https://github.com/Joyel42)
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
+- <hr>
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
