@@ -7,17 +7,18 @@
 
 
 - 🌱 I’m currently working as a Intern @**ATAI** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 💞 I LOVE NEW TECH STUFF!
 
-- 👨‍💻 All of my projects are available [@Joyel42](https://github.com/Joyel42)
+- 👀 I’m looking for help with **BACKEND**
+
+- 👨‍💻 All of my projects are available [Joyel42](https://github.com/Joyel42)
+
+- 💬 Ask me about **System Designs and Philosophy 😆**
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
 
-
-
-
 ---
-
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
