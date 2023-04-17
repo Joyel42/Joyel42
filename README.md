@@ -159,7 +159,7 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="mailto:info.joyelgeorge42@gmail.com" target="_blank">
+  <a  href="mailto:joyelgeorge42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
   <a href="mailto:ttc0820036@nttf.co.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
