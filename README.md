@@ -130,8 +130,6 @@
      <a href="https://www.chef.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/chef-2496ED.svg?style=for-the-badge&logo=chef&logoColor=white" alt="chef"/> 
   </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
@@ -161,10 +159,10 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="mailto:info.mangoesmedia@gmail.com" target="_blank">
+  <a  href="mailto:info.joyelgeorge42@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:anoopaj08@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:ttc0820036@nttf.co.in?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
