@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently working as a Intern @**ATAI** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-- 💞 I LOVE NEW TECH STUFF!
+- 💞 I love new Tech Stuff !!!
 
 - 👀 I’m looking for help with **BACKEND**
 
