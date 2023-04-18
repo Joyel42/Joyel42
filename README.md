@@ -173,8 +173,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Joyel42&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Joyel42)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Joyel42&theme=material-palenight)](https://github.com/Joyel42)
-</div>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joyel42&theme=tokyonight&hide_border=true&layout=compact" />
 
 ----
 
