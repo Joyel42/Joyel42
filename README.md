@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available [Joyel42](https://github.com/Joyel42)
 
-- 💬 Ask me about **FRONTEND**
-
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
 
