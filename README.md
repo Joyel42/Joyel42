@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">A passionate full stack developer.</h3>
 
 
-- 🌱 I’m currently working as a Intern @**ATAI** <img align="right" style="width:16rem; height:auto"  src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif"/>
+- 🌱 I’m currently working at @**ATAI** <img align="right" style="width:16rem; height:auto"  src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif"/>
 - 💞 I love new Tech Stuff !!!
 
 - 👨‍💻 All of my projects are available [Joyel42](https://github.com/Joyel42)
