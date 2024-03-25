@@ -48,10 +48,6 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-    <a href="https://www.w3.org/php/" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-E34F26.svg?style=for-the-badge&logo=php&logoColor=white"
-      alt="php"/> 
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
